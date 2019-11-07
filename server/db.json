@@ -1,9 +1,9 @@
 {
   "todos": [
     {
-      "id": 1,
       "text": "learn programming",
-      "checked": false
+      "checked": true,
+      "id": 1
     },
     {
       "id": 2,
@@ -34,7 +34,11 @@
       "id": 7,
       "text": "Work!!!! MF!",
       "checked": false
+    },
+    {
+      "text": "1",
+      "checked": false,
+      "id": 8
     }
-
   ]
 }
